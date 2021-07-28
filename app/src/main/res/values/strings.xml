@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Intents App</string>
+    <string name="open_gallery_text">Open Gallery</string>
 </resources>
